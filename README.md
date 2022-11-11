@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm A$ap</h1>
-<h3 align="center">An experienced next.js and python dev.</h3>
 
 <p align="left"> <a href="https://twitter.com/seed_1337" target="blank"><img src="https://img.shields.io/twitter/follow/seed_1337?logo=twitter&style=for-the-badge" alt="seed_1337" /></a> </p>
 
